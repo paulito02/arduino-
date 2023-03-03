@@ -4,6 +4,9 @@
 // int redTime=500;
 // int yelloBlink=3;
 // int redBlink=5
+// int bluebled=7;
+// int bluetime=500;
+// int blueblink=8;
 
 // void setup() {
   
