@@ -8,6 +8,8 @@ int ldrpin=1;
   // put your setup code here, to run once:
 pinMode(A0, INPUT);
 pinMode(buzzPin, OUTPUT);
+  //to open the serial monitor
+  
 Serial.begin(9600);
 }
 
